@@ -1,2 +1,4 @@
 # IntoAI-Search
-First project for Introduction to AI
+Artificial Intelligence project designed by UC Berkeley to develop game agents for Pacman using search algorithms and reinforcement learning
+
+
